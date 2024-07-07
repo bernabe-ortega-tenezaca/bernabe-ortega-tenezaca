@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola soy Bernabe Ortega-Tenezaca 👋
 
 <!--
 **bernabe-ortega-tenezaca/bernabe-ortega-tenezaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
