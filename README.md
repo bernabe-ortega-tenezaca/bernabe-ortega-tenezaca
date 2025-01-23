@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **teaching data structure and databases.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: bernabe.ortega@gmail.com</h3>
 <p align="left">
 </p>
 
